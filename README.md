@@ -1,7 +1,7 @@
 ### Project Video
 https://github.com/user-attachments/assets/fb896dcb-3229-4b37-b964-1e99c3cccc39
 
-### Advanced Microsoft Excel Dashboard Masterclass – Adventure Works Sales Analysis
+# Advanced Microsoft Excel Dashboard Masterclass – Adventure Works Sales Analysis
 
 A production-ready Microsoft Excel Business Intelligence (BI) dashboard built using **Power Query**, **Power Pivot**, **Data Modeling**, and **DAX (Data Analysis Expressions)**.
 
