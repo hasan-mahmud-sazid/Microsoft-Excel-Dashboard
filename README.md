@@ -1,7 +1,7 @@
 ### Project Video
 https://github.com/user-attachments/assets/fb896dcb-3229-4b37-b964-1e99c3cccc39
 
-#Advanced Microsoft Excel Dashboard Masterclass – Adventure Works Sales Analysis
+### Advanced Microsoft Excel Dashboard Masterclass – Adventure Works Sales Analysis
 
 A production-ready Microsoft Excel Business Intelligence (BI) dashboard built using **Power Query**, **Power Pivot**, **Data Modeling**, and **DAX (Data Analysis Expressions)**.
 
@@ -15,7 +15,7 @@ The goal of this project is to build a professional **Adventure Works Sales Dash
 
 Instead of using complex worksheet formulas such as **VLOOKUP**, **XLOOKUP**, or **INDEX/MATCH**, the project leverages Excel's Business Intelligence tools to create a faster, cleaner, and more maintainable solution.
 
-### Key Objectives
+## Key Objectives
 
 * Build a professional Business Intelligence dashboard in Microsoft Excel
 * Create a scalable data model using Power Pivot
@@ -83,7 +83,7 @@ Adventure-Works-Dashboard/
 
 The project follows a **Star Schema** design.
 
-### Fact Table
+## Fact Table
 
 * **FactInternetSales**
 
@@ -93,7 +93,7 @@ The project follows a **Star Schema** design.
   * Order Date
   * Customer Keys
 
-### Dimension Tables
+## Dimension Tables
 
 * **DimDate**
 * **DimProduct**
@@ -105,7 +105,7 @@ Relationships are created inside **Power Pivot**, eliminating the need for repet
 
 ---
 
-# Implementation Workflow
+### Implementation Workflow
 
 ## Phase-1 Data Import & Cleaning
 
@@ -120,7 +120,7 @@ Tasks performed:
 * Rename columns
 * Prepare clean datasets
 
-### Recommended Loading Method
+## Recommended Loading Method
 
 Instead of using **Close & Load**, use:
 
@@ -178,7 +178,7 @@ These measures automatically update based on slicer selections.
 
 The dashboard is built with a clean, application-style interface.
 
-### Dashboard Components
+## Dashboard Components
 
 * KPI Cards
 * Interactive Slicers
@@ -199,7 +199,7 @@ To improve readability:
 
 ---
 
-# 📈 Dashboard KPIs
+## Dashboard KPIs
 
 The dashboard tracks key business metrics, including:
 
@@ -216,7 +216,7 @@ The dashboard tracks key business metrics, including:
 
 ---
 
-# Dashboard Interactivity
+## Dashboard Interactivity
 
 The dashboard provides an interactive user experience through:
 
@@ -233,7 +233,7 @@ Every visual updates automatically based on the selected filters.
 
 ---
 
-# Error Handling
+## Error Handling
 
 ## Division by Zero
 
@@ -259,7 +259,7 @@ These functions help maintain reliable calculations when multiple slicer selecti
 
 ---
 
-# Performance Optimization
+## Performance Optimization
 
 To keep the workbook fast and efficient:
 
@@ -273,7 +273,7 @@ To keep the workbook fast and efficient:
 
 ---
 
-# Business Insights
+## Business Insights
 
 The dashboard enables users to answer important business questions such as:
 
@@ -289,7 +289,7 @@ The dashboard enables users to answer important business questions such as:
 
 ---
 
-# 📸 Dashboard Preview
+## Dashboard Preview
 
 <img width="1103" height="653" alt="image" src="https://github.com/user-attachments/assets/e45789f6-0610-4759-91ff-0b0128335faf" />
 
@@ -297,15 +297,9 @@ The dashboard enables users to answer important business questions such as:
 
 <img width="1054" height="185" alt="image" src="https://github.com/user-attachments/assets/a792e6af-0b10-420b-8b49-fd5295b59a97" />
 
-```text
-/images/dashboard-overview.png
-/images/dashboard-sales.png
-/images/dashboard-products.png
-```
-
 ---
 
-# Learning Outcomes
+## Learning Outcomes
 
 * Power Query
 * Power Pivot
@@ -318,15 +312,5 @@ The dashboard enables users to answer important business questions such as:
 * Dashboard Design Best Practices
 
 ---
-
 # Contributing
 Any Suggestions Or improvements are always welcome.
-
----
-
----
-
-## ⭐ If you found this project helpful, consider giving it a Star!
-
-
-
