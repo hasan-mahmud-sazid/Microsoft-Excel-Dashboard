@@ -140,9 +140,7 @@ Create relationships inside **Power Pivot** using **Diagram View**.
 
 Example relationships:
 
-```
 <img width="1466" height="779" alt="image" src="https://github.com/user-attachments/assets/51de85fb-73f7-495d-b3e5-f1538fe3854c" />
-```
 
 This Star Schema enables efficient filtering and reporting across all dimensions.
 
